@@ -2,6 +2,8 @@
 
 1. Test your understanding of basic git repo commands
 
+hi
+
 ???
 
 # Basic Git Quiz
@@ -56,3 +58,5 @@ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-git-bas
 
 
 <p data-visibility='hidden'>PHRG Objectives</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/phrg-git-basics-quiz'>Git Repository Basics Quiz</a> on Learn.co and start learning to code for free.</p>
